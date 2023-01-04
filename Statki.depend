@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1636010433 source:c:\users\arek\desktop\statki test 2\statki\lib_files\window.cpp
+	"../header_files/window.h"
+
+1636012173 c:\users\arek\desktop\statki test 2\statki\header_files\window.h
+	"raylib.h"
+	<cmath>
+
+1636010556 source:c:\users\arek\desktop\statki test 2\statki\lib_files\textures.cpp
+	"../header_files/textures.h"
+
+1636010556 c:\users\arek\desktop\statki test 2\statki\header_files\textures.h
+	"raylib.h"
+
+1636010634 source:c:\users\arek\desktop\statki test 2\statki\lib_files\gamemusic.cpp
+	"../header_files/gamemusic.h"
+
+1636010634 c:\users\arek\desktop\statki test 2\statki\header_files\gamemusic.h
+	"raylib.h"
+
+1636026122 source:c:\users\arek\desktop\statki test 2\statki\lib_files\board.cpp
+	"../header_files/board.h"
+
+1636026055 c:\users\arek\desktop\statki test 2\statki\header_files\board.h
+	<vector>
+	"raylib.h"
+	"engine.h"
+	"textures.h"
+	"ship.h"
+
+1636023644 c:\users\arek\desktop\statki test 2\statki\header_files\engine.h
+	"raylib.h"
+
+1636025982 source:c:\users\arek\desktop\statki test 2\statki\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<ctime>
+	"raylib.h"
+	"header_files/window.h"
+	"header_files/engine.h"
+	"header_files/textures.h"
+	"header_files/gamemusic.h"
+	"header_files/ship.h"
+	"header_files/board.h"
+	"header_files/board_ships_operations.h"
+
+1636020331 c:\users\arek\desktop\statki test 2\statki\header_files\ship.h
+	"raylib.h"
+	<vector>
+	<ctime>
+	<cstdlib>
+	"engine.h"
+	"gamemusic.h"
+	"textures.h"
+	"board.h"
+
+1636010855 source:c:\users\arek\desktop\statki test 2\statki\ship.cpp
+	"header_files/ship.h"
+
+1636025102 source:c:\users\arek\desktop\statki test 2\statki\lib_files\ship.cpp
+	"../header_files/ship.h"
+
+1636024985 source:c:\users\arek\desktop\statki test 2\statki\lib_files\board_operations.cpp
+	"../header_files/board_operations.h"
+
+1636024917 c:\users\arek\desktop\statki test 2\statki\header_files\board_operations.h
+	"board.h"
+	"ship.h"
+
+1636025115 source:c:\users\arek\desktop\statki test 2\statki\lib_files\engine.cpp
+	"../header_files/engine.h"
+
+1636025612 source:c:\users\arek\desktop\statki test 2\statki\lib_files\board_ships_operations.cpp
+	"../header_files/board_ships_operations.h"
+
+1636025886 c:\users\arek\desktop\statki test 2\statki\header_files\board_ships_operations.h
+	"board.h"
+	"ship.h"
+
+1639906094 source:c:\users\arek\desktop\statki\lib_files\board.cpp
+	"../header_files/board.h"
+
+1639905750 c:\users\arek\desktop\statki\header_files\board.h
+	<vector>
+	"raylib.h"
+	"engine.h"
+	"textures.h"
+
+1641505648 c:\users\arek\desktop\statki\header_files\engine.h
+	"raylib.h"
+	"textures.h"
+	"gamemusic.h"
+
+1641504946 c:\users\arek\desktop\statki\header_files\textures.h
+	"raylib.h"
+
+1639774535 c:\users\arek\desktop\statki\header_files\ship.h
+	"raylib.h"
+	<vector>
+	<ctime>
+	<cstdlib>
+	"engine.h"
+	"gamemusic.h"
+	"textures.h"
+	"board.h"
+
+1641506099 c:\users\arek\desktop\statki\header_files\gamemusic.h
+	"raylib.h"
+	"engine.h"
+
+1640891466 source:c:\users\arek\desktop\statki\lib_files\board_ships_operations.cpp
+	"../header_files/board_ships_operations.h"
+
+1639829883 c:\users\arek\desktop\statki\header_files\board_ships_operations.h
+	"board.h"
+	"ship.h"
+	"gamemusic.h"
+
+1641505625 source:c:\users\arek\desktop\statki\lib_files\engine.cpp
+	"../header_files/engine.h"
+
+1641506816 source:c:\users\arek\desktop\statki\lib_files\gamemusic.cpp
+	"../header_files/gamemusic.h"
+
+1639911899 source:c:\users\arek\desktop\statki\lib_files\ship.cpp
+	"../header_files/ship.h"
+
+1641505039 source:c:\users\arek\desktop\statki\lib_files\textures.cpp
+	"../header_files/textures.h"
+
+1641506137 source:c:\users\arek\desktop\statki\lib_files\window.cpp
+	"../header_files/window.h"
+
+1641505215 c:\users\arek\desktop\statki\header_files\window.h
+	"raylib.h"
+	<cmath>
+	"textures.h"
+	"gamemusic.h"
+	"engine.h"
+
+1641506878 source:c:\users\arek\desktop\statki\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<ctime>
+	"raylib.h"
+	"header_files/window.h"
+	"header_files/engine.h"
+	"header_files/textures.h"
+	"header_files/gamemusic.h"
+	"header_files/ship.h"
+	"header_files/board.h"
+	"header_files/board_ships_operations.h"
+
+1641312537 source:c:\users\arek\desktop\statki\resources.rc
+
